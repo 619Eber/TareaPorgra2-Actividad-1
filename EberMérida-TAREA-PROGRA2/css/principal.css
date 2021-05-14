@@ -1,0 +1,53 @@
+body{
+    background: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    }
+
+.container-fluid1 img{
+    width: 200px;
+    height: 60px;
+margin-left: 10px;
+}
+
+.contenido{
+background-color: rgba(255, 255, 255, 0.685);
+width: 530px;
+height: 360px;
+margin: -370px;
+margin-left: 670px;
+float: left;
+}
+
+.video1{
+ margin: 5px;
+}
+
+.body{
+    background-image:url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+}
+
+.card{
+  margin: 10px;
+  margin-left: 40px;
+}
+
+.card2{
+    margin: -325px;
+    margin-left: 360px;
+    background-color: aliceblue;
+}
+
+.card3{
+    margin: 10px;
+    margin-left: 675px;
+    background-color: aliceblue;
+}
+
+.card4{
+    margin: -325px;
+    margin-left: 990px;
+    background-color: aliceblue;
+}
